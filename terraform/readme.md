@@ -1,1 +1,1 @@
-Terraform code that build the pipeline on aws
+Terraform codes that build the pipeline on aws
